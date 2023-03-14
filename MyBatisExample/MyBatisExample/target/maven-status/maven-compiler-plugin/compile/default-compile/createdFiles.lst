@@ -1,0 +1,4 @@
+main\resources\mapper\entity\Person.class
+main\resources\mapper\PersonDAO.class
+com\example\MyBatisExample\MyBatisExampleApplication.class
+com\example\MyBatisExample\GetAllPerson.class
